@@ -1,0 +1,43 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="640"
+  height="800"
+  viewBox="0 0 640 800"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Profile Placeholder</title>
+  <desc id="desc">Placeholder portrait for a personal homepage.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#efe4d0" />
+      <stop offset="100%" stop-color="#d8c2a5" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="800" fill="url(#background)" />
+  <circle cx="320" cy="255" r="118" fill="#8d5d3b" opacity="0.24" />
+  <path
+    d="M180 650c14-112 83-174 140-174s126 62 140 174"
+    fill="#8d5d3b"
+    opacity="0.2"
+  />
+  <circle cx="320" cy="250" r="102" fill="none" stroke="#8d5d3b" stroke-width="18" opacity="0.7" />
+  <path
+    d="M212 655c8-79 52-132 108-132s100 53 108 132"
+    fill="none"
+    stroke="#8d5d3b"
+    stroke-width="18"
+    opacity="0.7"
+    stroke-linecap="round"
+  />
+  <text
+    x="320"
+    y="722"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="34"
+    fill="#7b5030"
+  >
+    Replace with your photo
+  </text>
+</svg>
